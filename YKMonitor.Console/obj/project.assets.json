@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\YKMonitor.admin\\YKMonitor.Console\\YKMonitor.Console.csproj",
+      "projectUniqueName": "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Console\\YKMonitor.Console.csproj",
       "projectName": "YKMonitor.Console",
-      "projectPath": "C:\\code\\YKMonitor.admin\\YKMonitor.Console\\YKMonitor.Console.csproj",
+      "projectPath": "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Console\\YKMonitor.Console.csproj",
       "packagesPath": "C:\\Users\\FFF\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\YKMonitor.admin\\YKMonitor.Console\\obj\\",
+      "outputPath": "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FFF\\AppData\\Roaming\\NuGet\\NuGet.Config",

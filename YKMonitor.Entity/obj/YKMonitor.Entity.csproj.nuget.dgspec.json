@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj": {}
+    "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj": {}
   },
   "projects": {
-    "C:\\code\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj": {
+    "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj",
+        "projectUniqueName": "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj",
         "projectName": "YKMonitor.Entity",
-        "projectPath": "C:\\code\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj",
+        "projectPath": "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Entity\\YKMonitor.Entity.csproj",
         "packagesPath": "C:\\Users\\FFF\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\YKMonitor.admin\\YKMonitor.Entity\\obj\\",
+        "outputPath": "C:\\ZhanJD\\Demo\\YkMonitor\\YKMonitor.admin\\YKMonitor.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FFF\\AppData\\Roaming\\NuGet\\NuGet.Config",
