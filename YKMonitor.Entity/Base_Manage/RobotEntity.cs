@@ -8,6 +8,9 @@ namespace YKMonitor.Entity.Base_Manage
     [Table("TK_Robot")]
     public class RobotEntity:BaseEntity
     {
-        public int MyProperty { get; set; }
+        /// <summary>
+        /// 
+        /// </summary>
+        public string robot_name { get; set; }
     }
 }
